@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vanessa-alcantara-50a97a115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanessa-alcantara-50a97a115/" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/itsvanessasimpson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="facebook.com/itsvanessasimpson" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/itsvanessamasco1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/itsvanessamasco1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vanessa-alcantara-50a97a115/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/vanessa-alcantara-50a97a115/" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/itsvanessasimpson" target="blank"><img align="center" src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" alt="facebook.com/itsvanessasimpson" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/itsvanessamasco1" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="https://www.hackerrank.com/itsvanessamasco1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
