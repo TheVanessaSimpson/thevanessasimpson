@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A passionate fron-end developer Student from Rio de Janeiro, Brazil.</h3>
 
-- 🌱 I’m currently learning **React Js, Bootstrap 5, Angular, Node Js**
+- 🌱 I’m currently learning **React Js, Bootstrap 5**
 
 - 💬 Ask me about **Html5, Css3, JavaScript**
 
