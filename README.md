@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
-<h3 align="center">A passionate fron-end developer Student from Rio de Janeiro, Brazil.</h3>
+<h3 align="center">A passionate fron-end / QA Tester Analyst  Student from Rio de Janeiro, Brazil.</h3>
 
-- 🌱 I’m currently learning **React Js, Bootstrap 5**
+- 🌱 I’m currently learning **API Rest Assured**
 
-- 💬 Ask me about **Html5, Css3, JavaScript**
+- 💬 Ask me about **Html5, Css3, Selenium, Appium**
 
 - 📫 How to reach me **itsvanessamascolo@gmail.com**
 
